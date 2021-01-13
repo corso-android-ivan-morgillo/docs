@@ -2,9 +2,13 @@
 
 Un caloroso benvenuto a tutte e tutti 💪
 
-In questa fase preliminare prepareremo gli account ed installeremo un po' di software necessario ad affrontare il corso, partendo dall'IDE per programmare, al software per comunicare durante queste settimane insieme.
+In questa fase preliminare prepareremo gli account ed installeremo un po' di software necessario ad affrontare il corso, partendo dall'IDE per programmare al software per comunicare durante queste settimane insieme.
 
 ## Servizi
+
+### Github
+
+Per gestire i sorgenti dei nostri progetti useremo Github. Se non avete ancora un account, registratevi [qui](https://github.com/).
 
 ## Software
 
