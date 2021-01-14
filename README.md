@@ -6,9 +6,13 @@ In questa fase preliminare prepareremo gli account ed installeremo un po' di sof
 
 ## Servizi
 
+### Discord
+
+Per le cominicazioni in tempo reale, sia in testo che in video call, useremo [Discord](https://discord.com/). Dovreste aver ricevuto via mail un invito per registrarvi al server del corso. Nel frattempo, potete scegliere se installare il [client per desktop](https://discord.com/download) o usare la version web.
+
 ### Github
 
-Per gestire i sorgenti dei nostri progetti useremo Github. Se non avete ancora un account, registratevi [qui](https://github.com/).
+Per gestire i sorgenti dei nostri progetti useremo Github. Se non avete ancora un account, registratevi [qui](https://github.com/). Una volta che avrete un account verrete aggiunti all'_organization_ del corso e potrete aggere ai repository privati.
 
 ## Software
 
