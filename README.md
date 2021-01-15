@@ -35,3 +35,17 @@ Scrollando la lista di applicazioni disponibili, possiamo installare Android Stu
 ![image](https://user-images.githubusercontent.com/19003/104459250-c7d08700-55ac-11eb-821b-afa84ce6b686.png)
 
 Per questa nostra avventura, la versions **Stable** andrà benissimo 😄
+
+### Plugin utili
+Android studio fornisce diversi plugin che consentono di semplificare la vita dello sviluppatore. Per procedere all'installazione di un plugin bisogna seguire i seguenti step:
+* Aprire l'ide android studio.
+* Cliccare sulla voce "File" situata in alto a sinistra.
+* Cliccare sulla voce "Settings".
+* Cliccare sulla voce "Plugins" e selezionare la tab "Marketplace".
+
+Di seguito vengono proposti una serie di plugin utili:
+- Rainbow Bracket: consente di associare un colore alle perentesi in modo tale da evitare errori dovuti alla mancata chiusura di una parentesi.
+- Kotlin Fill Class: consente l'autocompletamento dei parametri di una classe (dopo che questa è stata definita).
+- Presentation Assistant: consente di mostrare a video i tasti che vengono promuti nell' IDE.
+
+
