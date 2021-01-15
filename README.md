@@ -34,4 +34,20 @@ Scrollando la lista di applicazioni disponibili, possiamo installare Android Stu
 
 ![image](https://user-images.githubusercontent.com/19003/104459250-c7d08700-55ac-11eb-821b-afa84ce6b686.png)
 
-Per questa nostra avventura, la versions **Stable** andrà benissimo 😄
+Per questa nostra avventura, la versions **Beta** andrà benissimo 😄
+
+Una volta avviato Android Studio, possiamo iniziare con la configurazione:
+
+Scegliamo **Standard**
+
+![1](https://user-images.githubusercontent.com/98166/104752899-2afa1f00-574f-11eb-8657-adef242558b7.png)
+
+Nella schermata successiva scegliamo il tema che preferiamo:
+
+![2](https://user-images.githubusercontent.com/98166/104752902-2afa1f00-574f-11eb-98ef-4a51213ad6b5.png)
+
+Possiamo completare la configurazione e attende l'installazione dei componenti:
+
+![3](https://user-images.githubusercontent.com/98166/104752904-2b92b580-574f-11eb-85f8-9a3cd0608d0a.png)
+![4](https://user-images.githubusercontent.com/98166/104752906-2c2b4c00-574f-11eb-970d-24ab35113878.png)
+![5](https://user-images.githubusercontent.com/98166/104752908-2c2b4c00-574f-11eb-8da6-b06187abd3b5.png)
