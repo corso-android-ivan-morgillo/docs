@@ -6,6 +6,10 @@ In questa fase preliminare prepareremo gli account ed installeremo un po' di sof
 
 ## Servizi
 
+### Zoom
+
+Le lezioni verranno effettuate principalmente con Zoom, scaricabile [qui](http://zoom.us/).
+
 ### Discord
 
 Per le comunicazioni in tempo reale, sia in testo che in video call, useremo [Discord](https://discord.com/). Dovreste aver ricevuto via mail un invito per registrarvi al server del corso. Nel frattempo, potete scegliere se installare il [client per desktop](https://discord.com/download) o usare la version web.
@@ -36,16 +40,32 @@ Scrollando la lista di applicazioni disponibili, possiamo installare Android Stu
 
 Per questa nostra avventura, la versions **Stable** andrà benissimo 😄
 
-### Plugin Utili
+Una volta avviato Android Studio, possiamo iniziare con la configurazione:
+
+Scegliamo **Standard**
+
+![1](https://user-images.githubusercontent.com/98166/104752899-2afa1f00-574f-11eb-8657-adef242558b7.png)
+
+Nella schermata successiva scegliamo il tema che preferiamo:
+
+![2](https://user-images.githubusercontent.com/98166/104752902-2afa1f00-574f-11eb-98ef-4a51213ad6b5.png)
+
+Possiamo completare la configurazione e attende l'installazione dei componenti:
+
+![3](https://user-images.githubusercontent.com/98166/104752904-2b92b580-574f-11eb-85f8-9a3cd0608d0a.png)
+![4](https://user-images.githubusercontent.com/98166/104752906-2c2b4c00-574f-11eb-970d-24ab35113878.png)
+![5](https://user-images.githubusercontent.com/98166/104752908-2c2b4c00-574f-11eb-8da6-b06187abd3b5.png)
+
+#### Plugin Utili
 Android Studio fornisce diversi plugin che consentono di semplificare la vita dello sviluppatore. Per procedere all'installazione di un plugin bisogna seguire i seguenti step:
-* Aprire l'IDE android studio.
-* Cliccare sulla voce "File" situata in alto a sinistra.
-* Cliccare sulla voce "Settings".
-* Cliccare sulla voce "Plugins" e selezionare la tab "Marketplace".
+
+1. Aprire Android studio
+1. Cliccare sulla voce "File" situata in alto a sinistra
+1. Cliccare sulla voce "Settings"
+1. Cliccare sulla voce "Plugins" e selezionare la tab "Marketplace"
 
 Di seguito vengono proposti una serie di plugin utili:
+
 - Rainbow Bracket: consente di associare un colore alle perentesi in modo tale da evitare errori dovuti alla mancata chiusura di una parentesi.
 - Kotlin Fill Class: consente l'autocompletamento dei parametri di una classe (dopo che questa è stata definita).
 - Presentation Assistant: consente di mostrare a video i tasti che vengono premuti nell' IDE.
-
-
