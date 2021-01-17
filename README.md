@@ -36,9 +36,9 @@ Scrollando la lista di applicazioni disponibili, possiamo installare Android Stu
 
 Per questa nostra avventura, la versions **Stable** andrà benissimo 😄
 
-### Plugin utili
-Android studio fornisce diversi plugin che consentono di semplificare la vita dello sviluppatore. Per procedere all'installazione di un plugin bisogna seguire i seguenti step:
-* Aprire l'ide android studio.
+### Plugin Utili
+Android Studio fornisce diversi plugin che consentono di semplificare la vita dello sviluppatore. Per procedere all'installazione di un plugin bisogna seguire i seguenti step:
+* Aprire l'IDE android studio.
 * Cliccare sulla voce "File" situata in alto a sinistra.
 * Cliccare sulla voce "Settings".
 * Cliccare sulla voce "Plugins" e selezionare la tab "Marketplace".
