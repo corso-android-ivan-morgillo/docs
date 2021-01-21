@@ -1,3 +1,6 @@
+# Introduzione ad Android Studio
+
+## Installazione
 Scrollando la lista di applicazioni disponibili, possiamo installare Android Studio. Il menu ci proporrà varie versioni:
 
 * _Canary_ è la versione in sviluppo attivo. Avremo la possibilità di provare le prossime funzionalità in anteprima, ma dobbiamo aspettarci crash e
@@ -26,7 +29,7 @@ Possiamo completare la configurazione e attende l'installazione dei componenti:
 ![4](https://user-images.githubusercontent.com/98166/104752906-2c2b4c00-574f-11eb-970d-24ab35113878.png)
 ![5](https://user-images.githubusercontent.com/98166/104752908-2c2b4c00-574f-11eb-8da6-b06187abd3b5.png)
 
-#### Plugin Utili
+## Plugin Utili
 
 Android Studio fornisce diversi plugin che consentono di semplificare la vita dello sviluppatore. Per procedere all'installazione di un plugin bisogna
 seguire i seguenti step:
@@ -46,3 +49,7 @@ Di seguito vengono proposti una serie di plugin utili:
 - SonarLint: consente di fare analisi statica sul codice.
 - Save Actions: consente di migliorare la scrittura del codice forzando l'uso di un code style.
 - Conventional Commit: consente di auto-completare le commit.
+
+## Operazioni comuni
+
+* [Avviare una app](./android-studio-runanapp.md)
