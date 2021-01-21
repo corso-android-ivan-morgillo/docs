@@ -69,3 +69,9 @@ Di seguito vengono proposti una serie di plugin utili:
 - Rainbow Bracket: consente di associare un colore alle perentesi in modo tale da evitare errori dovuti alla mancata chiusura di una parentesi.
 - Kotlin Fill Class: consente l'autocompletamento dei parametri di una classe (dopo che questa è stata definita).
 - Presentation Assistant: consente di mostrare a video i tasti che vengono premuti nell' IDE.
+- Detekt: consente di fare analisi statica del codice.
+- ADB Idea: aggiunge ulterio comandi adb in intellij.
+- SonarLint: consente di fare analisi statica sul codice.
+- Save Actions: consente di migliorare la scrittura del codice forzando l'uso di un code style.
+- Conventional Commit: consente di auto-completare le commit.
+
