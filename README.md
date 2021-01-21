@@ -31,3 +31,7 @@ Una volta installato e avviato Toolbox, avremo qualcosa del genere:
 ### Android Studio
 
 Android Studio sarà il nostro IDE di riferimento e trovate la tutta la documentazione [qui](./tools/android-studio.md).
+
+### Vysor
+
+Vysor è uno strumento che vi consente di visualizzare sul computer il vostro smartphone. Potrete anche pilotare lo smartphone usando il vostro mouse e tastiera. Potete scaricare ed installare Vysor [qui](https://www.vysor.io/). 
