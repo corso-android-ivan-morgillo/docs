@@ -4,7 +4,7 @@ Per eseguire l'app che verrà sviluppata durante il corso è possibile scegliere
 * usare un device emulato da Android Studio
 
 ## Device Fisico
-Nel caso in cui si voglia usare un device fisico bisognerà attivare la modalità sviluppatore sul proprio device.In questo caso è fortemente consigliato scaricare e installare il software gratuito vysor (reperibile al sito https://www.vysor.io/download/?return=https%3A%2F%2Fwww.vysor.io%2F).
+Nel caso in cui si voglia usare un device fisico bisognerà attivare la modalità sviluppatore sul proprio device.In questo caso è fortemente consigliato scaricare e installare il software gratuito vysor (reperibile al [sito]( https://www.vysor.io/download/?return=https%3A%2F%2Fwww.vysor.io%2F)).
 Questo software consente di fare il mirroring dello schermo del proprio device fisico, in modo tale che  anche gli altri partecipanti possano vedere l'app in esecuzione.
 
 ***N.B. Usando vysor viene mostrato a video lo schermo del vostro smartphone e, di conseguenza, gli altri vedranno tutto quello che accade sul vostro smartphone (notifiche di messaggi, notifiche di email, chiamate in arrivo, etc.). Per tutelare la vostra privacy si consiglia di mettere lo smartphone in modalità Aereo in modo tale da non
