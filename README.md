@@ -18,7 +18,7 @@ Le lezioni verranno effettuate principalmente con Zoom, scaricabile [qui](http:/
 
 ### Discord
 
-Per le comunicazioni testuali in tempo reale e per avere una history delle note del corso e delle discussioni tra team, useremo [Discord](https://discord.com/). Avete ricevuto via mail un invito per registrarvi al server del corso. Potete scegliere se installare il [client per desktop](https://discord.com/download) o usare la version web.
+Per le comunicazioni testuali in tempo reale e per avere una history delle note del corso e delle discussioni tra team, useremo [Discord](https://discord.com/). Potete usare questo link per registrarvi al server https://discord.gg/FB2qTy5A . Potete scegliere se installare il [client per desktop](https://discord.com/download) o usare la version web.
 
 ### JetBrains Toolbox
 
